@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.image{
+	background-image:url(https://www.charteredbus.in/bus-manage-ea5fafab1c92bc24de4744dc5fdb4ce19ed62463d2703b37d6177ee9f0a3bf2a.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 700px;
+    margin-top: 20px;
+}
+
+#buses{
+     background-color: orange;
+     height: 250px;
+     margin-top: 30px;
+}
+#Amenities {
+    background-color: blueviolet;
+    text-align: center;
+    height: 200px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#Contact{
+    background-color:white;
+    color: white;
+    margin-top: 20px;
+    height: 150px;
+}
+#right{
+    background-color:#0065b3;
+    color: white;
+    height: 40px;
+}
+p{
+    height: 40px;
+    background-color: black;
+    text-align: center;
+}
+.Annual{
+   background-color:gray;
+   height: 120px;
+   margin-top: 20px;
+   text-align: center;
+}
+.col-md-4{
+    background-color:orange;
+    margin-top: 20px;
+    height: 150px;
+}
+.para1{
+    margin-top:20px;
+    text-align:center;
+    background-color: white;
+    height: 60px;
+}
